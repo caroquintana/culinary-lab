@@ -94,3 +94,18 @@ ul{
 	color: #fff;
 	margin-top: 50px;
 }
+
+/*Five section*/
+.titlefive{
+	margin-top: 90px;
+	font-weight: 900;
+}
+.subtitlefive{
+	font-size: 19px;
+}
+
+/*Carrusel*/
+.carousel-control.left, .carousel-control.right{
+	background-image: none;
+}
+
