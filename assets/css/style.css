@@ -17,6 +17,7 @@
 
 .second-section{
 	background-image: url(../img/bg-header.jpg);
+	background-attachment: fixed;
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -78,6 +79,7 @@ ul{
 /*Four section*/
 .four-section{
 	background-image: url(../img/bg-quote.jpg);
+	background-attachment: fixed;
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -112,6 +114,8 @@ ul{
 .person{
 	position: relative;
 	margin-top: 56px;
+	text-align: center;
+	margin:0 auto;
 }
 
 .textperson{
@@ -119,6 +123,33 @@ ul{
 	left: 30px; 
 	top: 80px; 
 	z-index: 3;
+	display: inline-block;
+}
+.block-text{
+	color: #fff;
+	text-align: center;
+	margin-top: 97px;
+	margin-left: 40px; 
+}
+
+.linecarousel{
+	width: 73px;
+	border: 1px solid #fff;
+	text-align: center;
+}
+
+em{
+	color: white;
+	font-size: 15px;
+	display: inherit;
+}
+
+.boxsocial{
+	display: inline-block;
+}
+
+.social{
+	color: #fff;
 }
 
 /*Carrusel*/
