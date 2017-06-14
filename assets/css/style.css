@@ -1,7 +1,6 @@
 
 *{
 	font-family: 'Lato', sans-serif;
-	list-style: none;
 }
 
 .img-responsive {
@@ -28,4 +27,39 @@
 	margin: 0 auto;
     text-align: center;
     margin-top: 80px;
+}
+
+/*Third section*/
+.thirdbox{
+	text-align: center;
+}
+
+.titlethird{
+	margin-top: 90px;
+	font-weight: 900;
+}
+
+hr{
+	width: 100px;
+	border-style: double;
+	border: 1px solid #C3B598;
+	margin-bottom: -19px;
+}
+
+h4.subtitlethird{
+	margin-top: 40px;
+}
+
+
+h3.titleingredients{
+	font-weight: 900;
+}
+
+ul{
+	text-align: left;
+	
+}
+
+i.fa{
+	font-size: 35px;
 }
