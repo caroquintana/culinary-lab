@@ -74,6 +74,7 @@ ul{
 	margin-bottom:90px;
 }
 
+
 /*Four section*/
 .four-section{
 	background-image: url(../img/bg-quote.jpg);
@@ -108,8 +109,21 @@ ul{
 	font-size: 19px;
 }
 
+.person{
+	position: relative;
+	margin-top: 56px;
+}
+
+.textperson{
+	position: absolute;
+	left: 30px; 
+	top: 80px; 
+	z-index: 3;
+}
+
 /*Carrusel*/
 .carousel-control.left, .carousel-control.right{
 	background-image: none;
 }
+
 
