@@ -241,3 +241,32 @@ em{
     float: left;
     margin-right: 10px;
 }
+i.fa.fa-star{
+	color: #ffe700;
+}
+
+/* Seven section */
+.seven-section{
+	background-color:#222222; 
+}
+.titleseven{
+	color: #fff;
+}
+.formsubs{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.input-group.input-group-lg {
+	width: 600px;
+	margin: 0 auto;
+}
+.btn-primary{
+	background-color: #C3B598;
+	border-color: #C3B598;
+}
+.btn-primary:hover, .btn:active, .btn:focus{
+	background-color: #d7c057;
+	border-color: #d7c057;
+}
+
+/* Eight section */
