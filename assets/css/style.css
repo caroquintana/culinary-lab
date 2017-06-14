@@ -60,10 +60,37 @@ ul{
 	text-align: left;
 
 }
+
 .fa-3x{
 	font-size: 36px;
 	margin-top: 37px;
 }
+
 .description{
 	margin-top: 20px;
+}
+
+/*Four section*/
+.four-section{
+	background-image: url(../img/bg-quote.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.fourtext{
+	text-align: center;
+	color: #fff;
+	font-size: 38px;
+	margin-top: 90px;
+}
+
+.btnmeet{
+	text-align: center;
+	margin: 0 auto;
+	background-color: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+	margin-top: 50px;
 }
