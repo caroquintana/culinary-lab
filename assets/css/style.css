@@ -53,13 +53,17 @@ h4.subtitlethird{
 
 h3.titleingredients{
 	font-weight: 900;
+	margin-left: 30px;
 }
 
 ul{
 	text-align: left;
-	
-}
 
-i.fa{
-	font-size: 35px;
+}
+.fa-3x{
+	font-size: 36px;
+	margin-top: 37px;
+}
+.description{
+	margin-top: 20px;
 }
